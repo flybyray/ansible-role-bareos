@@ -3,7 +3,7 @@
 ARCHIVED and replaced by:
 
 - [bareos_repository](https://github.com/robertdebock/ansible-role-bareos_repository)
-- [bareos_fd](https://github.com/robertdebock/ansible-role-bareos_df)
+- [bareos_fd](https://github.com/robertdebock/ansible-role-bareos_fd)
 - [bareos_sd](https://github.com/robertdebock/ansible-role-bareos_sd)
 - [bareos_dir](https://github.com/robertdebock/ansible-role-bareos_dir)
 - [bareos_console](https://github.com/robertdebock/ansible-role-bareos_console)
